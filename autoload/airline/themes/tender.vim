@@ -14,9 +14,9 @@ let s:normal2 = [ "#282828", "#73cef4", 235, 81 ]
 let s:normal3 = [ "#b3deef", "#444444", 153, 238 ]
 let g:airline#themes#tender#palette.normal = airline#themes#generate_color_map(s:normal1, s:normal2, s:normal3)
 
-let s:insert1 = [ "#464632", "#c9d05c", 238, 185 ]
+let s:insert1 = [ "#464632", "#c678dd", 238, 185 ]
 let s:insert2 = [ "#282828", "#9faa00", 235, 142 ]
-let s:insert3 = [ "#c9d05c", "#464632", 185, 238 ]
+let s:insert3 = [ "#c678dd", "#464632", 185, 238 ]
 let g:airline#themes#tender#palette.insert = airline#themes#generate_color_map(s:insert1, s:insert2, s:insert3)
 
 let s:replace1 = [ "#282828", "#f43753", 235, 203 ]

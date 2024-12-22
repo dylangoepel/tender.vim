@@ -19,9 +19,9 @@ let s:p.inactive.left = [[["#bbbbbb", 250], ["#444444", 238]], [["#bbbbbb", 250]
 let s:p.inactive.middle = [[["#bbbbbb", 250], ["#666666", 242]]]
 let s:p.inactive.right = [[["#bbbbbb", 250], ["#444444", 238]], [["#bbbbbb", 250], ["#444444", 238]]]
 
-let s:p.insert.left = [[["#c9d05c", 185], ["#6a6b3f", 242]], [["#282828", 235], ["#9faa00", 142]]]
-let s:p.insert.middle = [[["#6a6b3f", 242], ["#c9d05c", 185]]]
-let s:p.insert.right = [[["#c9d05c", 185], ["#6a6b3f", 242]], [["#282828", 235], ["#9faa00", 142]]]
+let s:p.insert.left = [[["#c678dd", 185], ["#6a6b3f", 242]], [["#282828", 235], ["#9faa00", 142]]]
+let s:p.insert.middle = [[["#6a6b3f", 242], ["#c678dd", 185]]]
+let s:p.insert.right = [[["#c678dd", 185], ["#6a6b3f", 242]], [["#282828", 235], ["#9faa00", 142]]]
 
 let s:p.replace.left = [[["#f43753", 203], ["#79313c", 237]], [["#282828", 235], ["#c5152f", 160]]]
 let s:p.replace.middle = [[["#282828", 235], ["#f43753", 203]]]
